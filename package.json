@@ -1,0 +1,26 @@
+{
+  "name": "materiales-festival-de-musica",
+  "version": "1.0.0",
+  "description": "Aprendiendo SASS y Gulp",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass",
+    "dev": "gulp"
+  },
+  "keywords": [
+    "SASS",
+    "GULP"
+  ],
+  "author": "Franco Costa",
+  "license": "ISC",
+  "devDependencies": {
+    "glob": "^11.0.1",
+    "gulp": "^5.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^6.0.0",
+    "gulp-terser": "^2.1.0",
+    "sass": "^1.83.0",
+    "sharp": "^0.33.5"
+  }
+}
